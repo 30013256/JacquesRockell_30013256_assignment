@@ -1,0 +1,21 @@
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csprojAssemblyReference.cache
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+C:\Users\30013256\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.pdb
+E:\C#\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+E:\C#\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+E:\C#\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+E:\C#\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csprojAssemblyReference.cache
+E:\C#\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+E:\C#\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.pdb
+E:\Finale assesment\Q3\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+E:\Finale assesment\Q3\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+E:\Finale assesment\Q3\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+E:\Finale assesment\Q3\ConsoleApp37\obj\Debug\ConsoleApp37.csprojAssemblyReference.cache
+E:\Finale assesment\Q3\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+E:\Finale assesment\Q3\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+E:\Finale assesment\Q3\ConsoleApp37\obj\Debug\ConsoleApp37.pdb

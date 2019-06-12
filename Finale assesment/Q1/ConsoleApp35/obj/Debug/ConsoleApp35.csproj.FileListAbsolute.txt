@@ -1,0 +1,14 @@
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csprojAssemblyReference.cache
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+C:\Users\30013256\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.pdb
+E:\C#\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+E:\C#\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+E:\C#\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+E:\C#\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csprojAssemblyReference.cache
+E:\C#\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+E:\C#\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.pdb

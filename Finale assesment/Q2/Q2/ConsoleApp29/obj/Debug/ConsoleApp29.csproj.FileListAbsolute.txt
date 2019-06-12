@@ -1,0 +1,7 @@
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\obj\Debug\ConsoleApp29.csprojAssemblyReference.cache
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+\\FS\STUDENT$\30013256\Desktop\JacquesRockell_30013256\Q1\ConsoleApp29\obj\Debug\ConsoleApp29.pdb
